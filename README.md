@@ -22,7 +22,7 @@ The files and codes provided here are shared as-is, without any guarantees. The 
 ### [TVs](TVs/)
 ### [Air Conditioners](ACs/)
 ### [Sound Bars](SoundBars/)
-### [Other Devices](../)
+### [Other Devices](https://github.com/Borys-esp/IRDB)
 
 &nbsp;
 
