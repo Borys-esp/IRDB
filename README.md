@@ -20,9 +20,9 @@ The files and codes provided here are shared as-is, without any guarantees. The 
 
 ## IR Codes For:
 ### [TVs](TVs/)
-### [Air Conditioners](AirConditioners/)
-### [Sound Bars](SoundSystems/)
-### [Other Devices](OtherDevices/)
+### [Air Conditioners](ACs/)
+### [Sound Bars](SoundBars/)
+### [Other Devices](../)
 
 &nbsp;
 
