@@ -28,4 +28,4 @@ The files and codes provided here are shared as-is, without any guarantees. The 
 
 ## Supported Tools
 1. Compatible with IR blasters, such as the M5Stick or universal remotes.
-2. Can be integrated into DIY projects using microcontrollers like Arduino or ESP32.
+2. Can be integrated into DIY projects using microcontrollers and PCs like Arduino, ESP32 or raspberry.
