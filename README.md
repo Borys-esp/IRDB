@@ -1,6 +1,6 @@
 # IR Codes Repository
 
-<img src="http://bobhinio.pl/assets/IRDBBANNER.webp" width="280" />
+<img src="http://bobhinio.pl/ForGithub/IRDBBANNER.webp" width="280" />
 
 This repository contains a collection of IR (Infrared) codes for various devices. Use them responsibly.
 
